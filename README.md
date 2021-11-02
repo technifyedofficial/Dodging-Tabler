@@ -14,6 +14,6 @@ In the terminal a line would appear saying "Enter the number of questions you wa
 In the terminal a line would appear saying "Q2: ....." some whta like this. Now you have to enter the correct answer and then proceed. At the end the program would show your results. 
 
 ## Warnings:
-### Do not enter blanks or inccorect ranges in input spaces or else you will get errors
+### Do not enter blanks or incorrect ranges in input spaces or else you will get errors
 
 # THANK YOU
